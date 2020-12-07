@@ -11,7 +11,7 @@
   
     GitHubUser:
       Type: String
-      Default: tqtezos
+      Default: priyeshs11
       Description: Your team or username on GitHub.
   
     NodeGitHubRepo:
