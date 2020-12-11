@@ -21,7 +21,7 @@
   
     NodeGitHubBranch:
       Type: String
-      Default: testnet
+      Default: mainnet
       Description: The branch of the node repo to continuously deploy.
   
     GitHubToken:
@@ -183,6 +183,7 @@
       ap-southeast-1:
         mainnet: mainnet-updater-snapshot-chainbucket-195c5u73nminm
       ap-southeast-2:
+        mainnet: mainnet-updater-chainbucket-ou75wb24n6hi
         testnet: testnet-updater-chainbucket-kwnwyf7varja
       ap-northeast-1:
         mainnet: mainnet-updater-snapshot-chainbucket-sm0xec0cdesk

@@ -21,7 +21,7 @@ Parameters:
 
   GitHubBranch:
     Type: String
-    Default: testnet
+    Default: mainnet
     Description: The branch of the repo to continuously deploy.
 
   GitHubToken:
