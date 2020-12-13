@@ -183,7 +183,7 @@
       ap-southeast-1:
         mainnet: mainnet-updater-snapshot-chainbucket-195c5u73nminm
       ap-southeast-2:
-        mainnet: mainnet-updater-chainbucket-ou75wb24n6hi
+        mainnet: mainnet-updater-chainbucket-sxz6f0gevftq
         testnet: testnet-updater-chainbucket-kwnwyf7varja
       ap-northeast-1:
         mainnet: mainnet-updater-snapshot-chainbucket-sm0xec0cdesk
